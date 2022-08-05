@@ -1,0 +1,7 @@
+{
+  "name": "pdf-player2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
